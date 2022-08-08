@@ -1,0 +1,33 @@
+body {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+  width: 900px;
+  height: 800px;
+  border: 1px solid black;
+  color: rgb(135, 135, 135);
+}
+body i {
+  margin: 8px;
+}
+body .text {
+  margin: 4px;
+}
+body .menu {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 15px;
+  width: 40%;
+}
+body .menu .top {
+  border-bottom: 1px solid rgb(194, 194, 194);
+}
+body .menu .main-1 {
+  border-bottom: 1px solid rgb(194, 194, 194);
+}
+body .menu .main-2 {
+  border-bottom: 1px solid rgb(194, 194, 194);
+}
+body .menu .main-2 .info .icon {
+  border-radius: 50%;
+  border: 1px solid rgb(135, 135, 135);
+}/*# sourceMappingURL=main.css.map */
